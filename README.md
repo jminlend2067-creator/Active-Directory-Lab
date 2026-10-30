@@ -7,8 +7,7 @@
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+
 
 <h2>Environments Used </h2>
 
